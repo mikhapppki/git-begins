@@ -1,0 +1,13 @@
+Commandes Git de base
+=====================
+
+1. Cloner un repository
+-------------------------
+git clone https://github.com/utilisateur/nom-du-repository.git
+
+
+2. Les 3 commandes de push
+--------------------------
+git add .
+git commit -m "message de commit explicite"
+git push origin main
