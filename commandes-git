@@ -16,3 +16,9 @@ git push origin main
 3. Recuperer les modifications (pull)
 -------------------------------------
 git pull origin main
+
+
+4. Creer une branche et basculer dessus
+---------------------------------------
+git branch nom-de-la-branche
+git switch nom-de-la-branche
