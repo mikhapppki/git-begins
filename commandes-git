@@ -11,3 +11,8 @@ git clone https://github.com/utilisateur/nom-du-repository.git
 git add .
 git commit -m "message de commit explicite"
 git push origin main
+
+
+3. Recuperer les modifications (pull)
+-------------------------------------
+git pull origin main
